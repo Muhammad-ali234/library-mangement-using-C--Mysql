@@ -1,1 +1,5 @@
-# librarysystem_6-3-19
+# Library Mangement system
+# Language C#
+# Database Mysql
+#Major Assignmnet
+#ID :12249
